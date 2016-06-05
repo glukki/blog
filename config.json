@@ -1,0 +1,11 @@
+{
+  pagesRoot: 'pages/',
+  pageIndex: 'index.md',
+  page404: '404.md',
+  pageExt: 'md',
+  markdownSettings: {
+    gfm: true,
+    tables: true,
+    breaks: true
+  }
+}
