@@ -1,4 +1,4 @@
-Находки дня:
+Про разметку текста
 
 * [GitBook](https://www.gitbook.com) — генератор книг/документации из гитхаба, поддерживает md и adoc
 * [GitHub Markups](https://github.com/github/markup#markups) — список языков разметки, которые поддерживает гитхаб (например, для readme.* файлов)
